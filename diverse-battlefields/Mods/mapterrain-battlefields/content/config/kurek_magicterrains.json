@@ -1,0 +1,110 @@
+{
+  "core:cursedGround": {
+    "types": {
+      "object": {
+        "battleFields": [
+          "cursed_ground", "cursedground01", "cursedground02", "cursedground03", "cursedground04", "cursedground05"
+        ]
+      }
+    }
+  },
+   "core:cursedGroundDUPLICATE": {
+    "types": {
+      "object": {
+        "battleFields": [
+          "cursed_ground", "cursedground01", "cursedground02", "cursedground03", "cursedground04", "cursedground05"
+        ]
+      }
+    }
+  },
+  "core:magicPlains": {
+    "types": {
+      "object": {
+        "battleFields": [
+          "magic_plains", "magicplains01", "magicplains02", "magicplains03", "magicplains04", "magicplains05"
+        ]
+      }
+    }
+  },
+   "core:magicPlainsDUPLICATE": {
+    "types": {
+      "object": {
+        "battleFields": [
+          "magic_plains", "magicplains01", "magicplains02", "magicplains03", "magicplains04", "magicplains05"
+        ]
+      }
+    }
+  },
+  "core:cloverField": {
+    "types": {
+      "object": {
+        "battleFields": [
+          "clover_field", "cloverfield01"
+        ]
+      }
+    }
+  },
+  "core:evilFog": {
+    "types": {
+      "object": {
+        "battleFields": [
+          "evil_fog", "evilfog01", "evilfog02", "evilfog03", "evilfog04", "evilfog05", "evilfog06"
+        ]
+      }
+    }
+  },
+  "core:favorableWinds": {
+    "types": {
+      "object": {
+        "battleFields": [
+          "ship", "favorablewinds01", "favorablewinds02", "favorablewinds03", "favorablewinds04", "favorablewinds05", "favorablewinds06"
+        ]
+      }
+    }
+  },
+  "core:fieryFields": {
+    "types": {
+      "object": {
+        "battleFields": [
+          "fiery_fields", "fieryfields01", "fieryfields02", "fieryfields03", "fieryfields04"
+        ]
+      }
+    }
+  },
+  "core:holyGround": {
+    "types": {
+      "object": {
+        "battleFields": [
+          "holy_ground", "holyground01", "holyground02", "holyground03"
+        ]
+      }
+    }
+  },
+  "core:lucidPools": {
+    "types": {
+      "object": {
+        "battleFields": [
+          "lucid_pools", "lucidpools01", "lucidpools02", "lucidpools03", "lucidpools04"
+        ]
+      }
+    }
+  },
+  "core:magicClouds": {
+    "types": {
+      "object": {
+        "battleFields": [
+          "magic_clouds", "magicclouds01", "magicclouds02", "magicclouds03", "magicclouds04"
+        ]
+      }
+    }
+  },
+  "core:rocklands": {
+    "types": {
+      "object": {
+        "battleFields": [
+          "rocklands", "rockland01"
+        ]
+      }
+    }
+  }
+}

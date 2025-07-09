@@ -1,0 +1,66 @@
+{
+  "core:dirt": {
+    "battleFields": [
+      "dirt_birches", "dirt_hills", "dirt_pines", "dirt01", "dirt02", "dirt03", "dirt04", "dirt05", "dirt06", "dirt07", "dirt08",
+      "dirt09", "dirt10", "dirt11", "dirt12", "dirt13", "dirt14", "dirt15", "dirt16",
+      "dirt17", "dirt18", "dirt19", "dirt20", "dirt21", "dirt22", "dirt23", "dirt24",
+      "dirt25", "dirt26", "dirt27", "dirt28", "dirt29", "dirt30", "dirt31", "dirt32"
+    ]
+  },
+  "core:grass": {
+    "battleFields": [
+      "grass_hills", "grass_pines", "grass01", "grass02", "grass03", "grass04", "grass05", "grass06", "grass07", "grass08",
+      "grass09", "grass10", "grass11", "grass12", "grass13", "grass14", "grass15", "grass16",
+      "grass17", "grass18", "grass19", "grass20", "grass21", "grass22", "grass23", "grass24",
+      "grass25", "grass26"
+    ]
+  },
+  "core:sand": {
+    "battleFields": [
+     "sand_mesas", "sand01", "sand02", "sand03", "sand04", "sand05", "sand06", "sand07", "sand08",
+      "sand09", "sand10", "sand11", "sand12", "sand13", "sand14", "sand15"
+    ]
+  },
+  "core:snow": {
+    "battleFields": [
+     "snow_mountains", "snow_trees", "snow01", "snow02", "snow03", "snow04", "snow05", "snow06", "snow07", "snow08",
+      "snow09", "snow10", "snow11", "snow12", "snow13", "snow14", "snow15", "snow16",
+      "snow17", "snow18", "snow19", "snow20", "snow21", "snow22", "snow23", "snow24",
+      "snow25", "snow26"
+    ]
+  },
+  "core:swamp": {
+    "battleFields": [
+     "swamp_trees", "swamp01", "swamp02", "swamp03", "swamp04", "swamp05", "swamp06", "swamp07", "swamp08",
+      "swamp09", "swamp10", "swamp11", "swamp12", "swamp13", "swamp14", "swamp15", "swamp16",
+      "swamp17", "swamp18", "swamp19", "swamp20"
+    ]
+  },
+  "core:rough": {
+    "battleFields": [
+      "rough", "rough01", "rough02", "rough03", "rough04", "rough05", "rough06", "rough07", "rough08",
+      "rough09", "rough10", "rough11", "rough12", "rough13", "rough14", "rough15", "rough16",
+      "rough17", "rough18", "rough19", "rough20", "rough21"
+    ]
+  },
+  "core:subterra": {
+    "battleFields": [
+      "subterranean", "subterrean01", "subterrean02", "subterrean03", "subterrean04", "subterrean05",
+      "subterrean06", "subterrean07", "subterrean08", "subterrean09", "subterrean10",
+      "subterrean11", "subterrean12", "subterrean13", "subterrean14", "subterrean15",
+      "subterrean16", "subterrean17", "subterrean18", "subterrean19", "subterrean20",
+      "subterrean21", "subterrean22", "subterrean23", "subterrean24", "subterrean25"
+    ]
+  },
+  "core:lava": {
+    "battleFields": [
+      "lava", "lava01", "lava02", "lava03", "lava04", "lava05", "lava06", "lava07", "lava08",
+      "lava09", "lava10", "lava11", "lava12", "lava13", "lava14", "lava15", "lava16"
+    ]
+  },
+  "core:water": {
+    "battleFields": [
+      "ship", "water01", "water02", "water03", "water04", "water05", "water06"
+    ]
+  }
+}

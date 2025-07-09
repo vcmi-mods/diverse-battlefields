@@ -1,0 +1,269 @@
+{
+	"core:creatureGeneratorCommon": {
+		"types": {
+
+//castle			
+
+			"monastery": {
+				"battleground": "diverse-battlefields:monastery_battlefield"
+			},
+			"trainingGrounds": {
+				"battleground": "diverse-battlefields:training_grounds_battlefield"
+			},
+			"portalOfGlory": {
+				"battleground": "diverse-battlefields:portal_of_glory_battlefield"
+			},
+			
+//rampart			
+
+			"dendroidArches": {
+				"battleground": "diverse-battlefields:dendroid_arches_battlefield"
+			},
+			"unicornGlade": {
+				"battleground": "diverse-battlefields:unicorn_glade_battlefield"
+			},
+			"unicornGladeBig": {
+				"battleground": "diverse-battlefields:unicorn_glade_battlefield"
+			},
+			"dragonCliffs": {
+				"battleground": "diverse-battlefields:dragon_cliffs_battlefield"
+			},
+			
+//tower			
+			
+			"altarOfWishes": {
+				"battleground": "diverse-battlefields:altar_of_wishes_battlefield"
+			},
+			"goldenPavilion": {
+				"battleground": "diverse-battlefields:golden_pavilion_battlefield"
+			},
+			"cloudTemple": {
+				"battleground": "diverse-battlefields:cloud_temple_battlefield"
+			},
+			
+//inferno			
+			
+			"hellHole": {
+				"battleground": "diverse-battlefields:hell_hole_battlefield"
+			},
+			"fireLake": {
+				"battleground": "diverse-battlefields:fire_lake_battlefield"
+			},
+			"forsakenPalace": {
+				"battleground": "diverse-battlefields:forsaken-palace_battlefield"
+			},
+			
+//necropolis			
+			
+			"mausoleum": {
+				"battleground": "diverse-battlefields:mausoleum_battlefield"
+			},
+			"hallOfDarkness": {
+				"battleground": "diverse-battlefields:hall_of_darkness_battlefield"
+			},
+			"dragonVault": {
+				"battleground": "diverse-battlefields:dragon_vault_battlefield"
+			},
+			
+//dungeon			
+			
+			"labyrinth": {
+				"battleground": "diverse-battlefields:labyrinth_battlefield"
+			},
+			"manticoreLair": {
+				"battleground": "diverse-battlefields:manticore_lair_battlefield"
+			},
+			"dragonCave": {
+				"battleground": "diverse-battlefields:dragon_cave_battlefield"
+			},			
+			
+//stronghold			
+			
+			"cliffNest": {
+				"battleground": "diverse-battlefields:cliff_nest_battlefield"
+			},
+			"cyclopsCave": {
+				"battleground": "diverse-battlefields:cyclops_cave_battlefield"
+			},
+			"behemothCrag": {
+				"battleground": "diverse-battlefields:behemoth_crag_battlefield"
+			},
+			
+//fortress			
+			
+			"gorgonLair": {
+				"battleground": "diverse-battlefields:gorgon_lair_battlefield"
+			},
+			"wyvernNest": {
+				"battleground": "diverse-battlefields:wyvern_nest_battlefield"
+			},
+			"hydraPond": {
+				"battleground": "diverse-battlefields:hydra_pond_battlefield"
+			},
+
+//conflux			
+
+
+			"earthConflux": {
+				"battleground": "diverse-battlefields:altar_of_earth_battlefield"
+			},
+			
+			"altarOfEarth": {
+				"battleground": "diverse-battlefields:altar_of_earth_battlefield"
+			},
+			"altarOfThought": {
+				"battleground": "diverse-battlefields:altar_of_thought_battlefield"
+			},
+			"pyre": {
+				"battleground": "diverse-battlefields:pyre_battlefield"
+			},
+
+//neutral			
+			"frozenCliffs": {
+				"battleground": "diverse-battlefields:frozen_cliffs_battlefield"
+			},
+			"crystalCavern": {
+				"battleground": "diverse-battlefields:crystal_cavern_battlefield"
+			},
+			"magicForest": {
+				"battleground": "diverse-battlefields:magic_forest_battlefield"
+			},
+			"sulfurousLair": {
+				"battleground": "diverse-battlefields:sulfurous_lair_battlefield"
+			},
+			"enchantersHollow": {
+				"battleground": "diverse-battlefields:enchanters_hollow_battlefield"
+			},
+			
+			"trollBridge": {
+				"battleground": "diverse-battlefields:troll_bridge_battlefield"
+			}					
+		}
+	},
+	
+	"core:creatureGeneratorSpecial": {
+		"types": {
+			"golemFactory": {
+				"battleground": "diverse-battlefields:golem_factory_battlefield"
+			},
+			"elementalConflux": {
+				"battleground": "diverse-battlefields:elemental_conflux_battlefield"
+			}
+		}
+	},
+	
+//banks
+	"core:creatureBank" : {
+		"types" : {
+			"cyclopsStockpile" : {
+				"battleground": "diverse-battlefields:cyclops_stockpile_battlefield"
+			},
+			"dwarvenTreasury" : {
+				"battleground": "diverse-battlefields:dwarven_treasury_battlefield"
+			},
+			"griffinConservatory" : {
+				"battleground": "diverse-battlefields:griffin_conservatory_battlefield"
+			},
+			"impCache" : {
+				"battleground": "diverse-battlefields:imp_cache_battlefield"
+			},
+			"medusaStore" : {
+				"battleground": "diverse-battlefields:medusa_store_battlefield"
+			},
+			"nagaBank" : {
+				"battleground": "diverse-battlefields:naga_bank_battlefield"
+			},
+			"dragonFlyHive" : {
+				"battleground": "diverse-battlefields:dragon_fly_hive_battlefield"
+			}	
+		}
+	},
+		
+	"core:shipwreck" : {
+		"types" : {
+			"shipwreck" : {
+				"battleground": "diverse-battlefields:shipwreck_battlefield"
+			}
+		}
+	},
+	
+	"core:derelictShip" : {
+		"types" : {
+			"derelictShip" : {
+				"battleground": "diverse-battlefields:derelict_ship_battlefield"
+			}
+		}
+	},
+
+	"core:crypt" : {
+		"types" : {
+			"crypt" : {
+				"battleground": "diverse-battlefields:crypt_battlefield"
+			}
+		}
+	},	
+	
+	"core:dragonUtopia" : {
+		"types" : {
+			"dragonUtopia" : {
+				"battleground": "diverse-battlefields:dragon_utopia_battlefield"
+			}
+		}
+	},
+
+	"core:pyramid" : {
+		"types" : {
+			"pyramid" : {
+				"battleground": "diverse-battlefields:pyramid_battlefield"
+			}
+		}
+	},
+
+	"core:mine" : {
+			"types" : 
+			{
+					"sawmill" : 
+					{
+						"battleground": "diverse-battlefields:sawmill_battlefield"
+					},
+					"alchemistLab" : 
+					{
+						"battleground": "diverse-battlefields:alchemistlab_battlefield"
+					},
+					"orePit" : 
+					{
+						"battleground": "diverse-battlefields:orepit_battlefield"
+					},
+					"sulfurDune" : 
+					{
+						"battleground": "diverse-battlefields:sulfurdune_battlefield"
+					},
+					"crystalCavern" : 
+					{
+						"battleground": "diverse-battlefields:crystalcavern_battlefield"
+					},
+					"gemPond" : 
+					{
+						"battleground": "diverse-battlefields:gempond_battlefield"
+					},
+					"goldMine" : 
+					{
+						"battleground": "diverse-battlefields:goldmine_battlefield"
+					},
+					"abandoned" :	
+					{
+						"battleground": "diverse-battlefields:abandonedmine_battlefield"
+					}
+				
+			}
+		},
+	
+
+	"core:abandonedMine" : {
+		"types" : {
+			"mine" : {
+				"battleground": "diverse-battlefields:abandonedmine_battlefield"
+			}
+		}
+	}
+}

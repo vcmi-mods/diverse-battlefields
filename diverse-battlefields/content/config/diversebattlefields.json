@@ -1,0 +1,262 @@
+{
+//castle
+	
+	"monastery_battlefield": {
+		"graphics": "castle/monastery.png",
+		"isSpecial" : true
+	},	
+	"training_grounds_battlefield": {
+		"graphics": "castle/training_grounds.png",
+		"isSpecial" : true
+	},
+	"portal_of_glory_battlefield": {
+		"graphics": "castle/portal_of_glory.png",
+		"isSpecial" : true
+	},
+	
+//rampart
+	
+	"dendroid_arches_battlefield": {
+		"graphics": "rampart/dendroid_arches.png",
+		"isSpecial" : true
+	},	
+	"unicorn_glade_battlefield": {
+		"graphics": "rampart/unicorn_glade.png",
+		"isSpecial" : true
+	},
+	"dragon_cliffs_battlefield": {
+		"graphics": "rampart/dragon_cliffs.png",
+		"isSpecial" : true
+	},
+	
+//tower
+
+	"golem_factory_battlefield": {
+		"graphics": "tower/golem_factory.png",
+		"isSpecial" : true
+	},
+
+	"altar_of_wishes_battlefield": {
+		"graphics": "tower/altar_of_wishes.png",
+		"isSpecial" : true
+	},	
+	"golden_pavilion_battlefield": {
+		"graphics": "tower/golden_pavilion.png",
+		"isSpecial" : true
+	},
+	"cloud_temple_battlefield": {
+		"graphics": "tower/cloud_temple.png",
+		"isSpecial" : true
+	},
+	
+//inferno
+	
+	"hell_hole_battlefield": {
+		"graphics": "inferno/hell_hole.png",
+		"isSpecial" : true
+	},	
+	"fire_lake_battlefield": {
+		"graphics": "inferno/fire_lake.png",
+		"isSpecial" : true
+	},
+	"forsaken-palace_battlefield": {
+		"graphics": "inferno/forsaken-palace.png",
+		"isSpecial" : true
+	},
+	
+//necropolis
+	
+	"mausoleum_battlefield": {
+		"graphics": "necropolis/mausoleum.png",
+		"isSpecial" : true
+	},	
+	"hall_of_darkness_battlefield": {
+		"graphics": "necropolis/hall_of_darkness.png",
+		"isSpecial" : true
+	},
+	"dragon_vault_battlefield": {
+		"graphics": "necropolis/dragon_vault.png",
+		"isSpecial" : true
+	},
+	
+//dungeon
+	
+	"labyrinth_battlefield": {
+		"graphics": "dungeon/labyrinth.png",
+		"impassableHexes" : [ 6, 7, 8, 9, 10, 11, 12, 24, 25, 26, 27, 28, 29 ],
+		"isSpecial" : true
+	},	
+	"manticore_lair_battlefield": {
+		"graphics": "dungeon/manticore_lair.png",
+		"isSpecial" : true
+	},
+	"dragon_cave_battlefield": {
+		"graphics": "dungeon/dragon_cave.png",
+		"isSpecial" : true
+	},
+	
+//stronghold
+	
+	"cliff_nest_battlefield": {
+		"graphics": "stronghold/cliff_nest.png",
+		"isSpecial" : true
+	},	
+	"cyclops_cave_battlefield": {
+		"graphics": "stronghold/cyclops_cave.png",
+		"isSpecial" : true
+	},
+	"behemoth_crag_battlefield": {
+		"graphics": "stronghold/behemoth_crag.png",
+		"isSpecial" : true
+	},
+	
+//fortress
+	
+	"gorgon_lair_battlefield": {
+		"graphics": "fortress/gorgon_lair.png",
+		"isSpecial" : true
+	},	
+	"wyvern_nest_battlefield": {
+		"graphics": "fortress/wyvern_nest.png",
+		"isSpecial" : true
+	},
+	"hydra_pond_battlefield": {
+		"graphics": "fortress/hydra_pond.png",
+		"isSpecial" : true
+	},
+
+//conflux
+
+	"altar_of_earth_battlefield": {
+		"graphics": "conflux/altar_of_earth.png",
+		"isSpecial" : true
+	},	
+	"altar_of_thought_battlefield": {
+		"graphics": "conflux/altar_of_thought.png",
+		"isSpecial" : true
+	},
+	"pyre_battlefield": {
+		"graphics": "conflux/pyre.png",
+		"isSpecial" : true
+	},
+	"elemental_conflux_battlefield": {
+		"graphics": "conflux/elemental_conflux.png",
+		"isSpecial" : true
+	},
+
+//neutral
+	"frozen_cliffs_battlefield": {
+		"graphics": "neutral/frozen_cliffs.png",
+		"isSpecial" : true
+	},
+	"crystal_cavern_battlefield": {
+		"graphics": "neutral/crystal_cavern.png",
+		"isSpecial" : true
+	},
+	"magic_forest_battlefield": {
+		"graphics": "neutral/magic_forest.png",
+		"isSpecial" : true
+	},
+	"sulfurous_lair_battlefield": {
+		"graphics": "neutral/sulfurous_lair.png",
+		"isSpecial" : true
+	},
+	"enchanters_hollow_battlefield": {
+		"graphics": "neutral/enchanters_hollow.png",
+		"isSpecial" : true
+	},	
+	
+	"troll_bridge_battlefield": {
+		"graphics": "neutral/troll_bridge.png",
+		"impassableHexes" : [ 4, 5, 144, 145, 146, 147, 148, 158, 159, 160, 161, 162, 163, 164, 166, 167, 168, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185 ],
+		"isSpecial" : true
+	},
+	
+//banks
+	"cyclops_stockpile_battlefield": {
+		"graphics": "banks/cyclops_stockpile.png",
+		"isSpecial" : true
+	},
+	"dwarven_treasury_battlefield": {
+		"graphics": "banks/dwarven_treasury.png",
+		"isSpecial" : true
+	},
+	"griffin_conservatory_battlefield": {
+		"graphics": "banks/griffin_conservatory.png",
+		"isSpecial" : true
+	},
+	"imp_cache_battlefield": {
+		"graphics": "banks/imp_cache.png",
+		"isSpecial" : true
+	},
+	"medusa_store_battlefield": {
+		"graphics": "banks/medusa_store.png",
+		"isSpecial" : true
+	},
+	"naga_bank_battlefield": {
+		"graphics": "banks/naga_bank.png",
+		"isSpecial" : true
+	},	
+	"dragon_fly_hive_battlefield": {
+		"name": "dragon_fly_hive",
+		"graphics": "banks/dragon_fly_hive.png",
+		"isSpecial" : true
+	},	
+	"shipwreck_battlefield": {
+		"graphics": "banks/shipwreck.png",
+		"isSpecial" : true
+	},	
+	"derelict_ship_battlefield": {
+		"graphics": "banks/derelict_ship.png",
+		"isSpecial" : true
+	},	
+	"crypt_battlefield": {
+		"graphics": "banks/crypt.png",
+		"isSpecial" : true
+	},	
+	"dragon_utopia_battlefield": {
+		"graphics": "banks/dragon_utopia.png",
+		"isSpecial" : true
+	},
+	"pyramid_battlefield": {
+		"graphics": "banks/pyramid.png",
+		"isSpecial" : true
+	},
+	
+	// mines
+	
+	"abandonedmine_battlefield": {
+		"graphics": "banks/abandonedmine.png",
+		"isSpecial" : true
+	},
+	
+	"goldmine_battlefield": {
+		"graphics": "banks/goldmine.png",
+		"isSpecial" : true
+	},
+	
+	"sulfurdune_battlefield": {
+		"graphics": "banks/sulfurdune.png",
+		"isSpecial" : true
+	},
+	"sawmill_battlefield": {
+		"graphics": "banks/sawmill.png",
+		"isSpecial" : true
+	},
+	"orepit_battlefield": {
+		"graphics": "banks/orepit.png",
+		"isSpecial" : true
+	},
+	"crystalcavern_battlefield": {
+		"graphics": "banks/crystalcavern.png",
+		"isSpecial" : true
+	},
+	"alchemistlab_battlefield": {
+		"graphics": "banks/alchemistlab.png",
+		"isSpecial" : true
+	},
+	"gempond_battlefield": {
+		"graphics": "banks/gempond.png",
+		"isSpecial" : true
+	}
+}
