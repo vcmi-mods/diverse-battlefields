@@ -4,9 +4,10 @@
 	"author" : "Kurek",
 	"contact" : "http://www.forum.acidcave.net/profile.php?UID=4121  or  https://discord.com/channels/298106089885401090/298110850420441094",
 	"modType" : "Graphical",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"changelog" :
 	{
+		"1.0.1"   : [ "Czech translation by George King" ],
 		"1.0.0"   : [ "Initial release" ]
 	},
 	"compatibility" :
@@ -18,7 +19,6 @@
 		"vivid-battlefields", 
 		"morns-battlefields"
     ],
-
     "objects" :
     [ 
 		"config/diversedwellings"
@@ -34,5 +34,9 @@
 	"polish" : {
 		"name": "Różnorodne Pola Bitwy",
 		"description": "Każdy bank stworzeń i strzeżone siedlisko zyskują nowe, unikalnie wyglądające pole bitwy. Na razie tła nie są animowane, ale jeśli pliki def będą wspierane, zostaną zaktualizowane."
+	},
+	"czech" : {
+		"name" : "Rozmanitá bojiště",
+		"description" : "Každá pokladnice a střežené obydlí získají nové, jedinečně vypadající bojiště."
 	}
 }
