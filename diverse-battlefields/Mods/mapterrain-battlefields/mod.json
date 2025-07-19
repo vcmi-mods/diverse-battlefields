@@ -1,7 +1,7 @@
 {
 	"name" : "Map Terrain Battlefields",
 	"description" : "Lots of new battlefield graphics for every normal and magic terrain.",
-	"version" : "0.9",
+	"version" : "0.9.1",
 	"author" : "Kurek",
 	"contact" : "http://www.forum.acidcave.net/profile.php?UID=4121  or  https://discord.com/channels/298106089885401090/298110850420441094",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
@@ -13,11 +13,16 @@
 	},
 	"changelog" :
     {
+		"0.9.1" : [ "Czech translation by George King" ],
 		"0.9"   : [ "Initial release, alternative magic terrain overlays don't work yet" ]
 	},
 	"polish" : {
 		"name" : "Pola bitew dla terenów",
 		"description" : "Mnóstwo nowych grafik pól bitwy dla każdego terenu, zarówno zwykłych, jak i magicznych terenów."
+	},
+	"czech" : {
+		"name" : "Bojiště podle terénu mapy",
+		"description" : "Mnoho nových grafických vzhledů bojišť pro každý běžný i magický terén."
 	},
 //	"override": true,
 	"battlefields" :
