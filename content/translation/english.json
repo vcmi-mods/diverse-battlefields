@@ -1,0 +1,6 @@
+{
+	"mod.name" : "Diverse Battlefields",
+	"mod.description" : "Every creature bank and guarded dwelling gets a new, unique looking battlefield. For now, the backgrounds aren't animated yet, but if def files get the support, it will be updated.",
+	"mod.mapterrain-battlefields.name" : "Map Terrain Battlefields",
+	"mod.mapterrain-battlefields.description" : "Lots of new battlefield graphics for every normal and magic terrain."
+}

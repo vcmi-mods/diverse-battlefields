@@ -7,14 +7,16 @@
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"modType" : "Graphical",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.3.0"
 	},
-	"changelog" :
-    {
-		"0.9.1" : [ "Czech translation by George King" ],
-		"0.9"   : [ "Initial release, alternative magic terrain overlays don't work yet" ]
+	"changelog" : {
+		"0.9.1" : [
+			"Czech translation by George King"
+		],
+		"0.9" : [
+			"Initial release, alternative magic terrain overlays don't work yet"
+		]
 	},
 	"polish" : {
 		"name" : "Pola bitew dla terenów",
@@ -24,19 +26,16 @@
 		"name" : "Bojiště podle terénu mapy",
 		"description" : "Mnoho nových grafických vzhledů bojišť pro každý běžný i magický terén."
 	},
-//	"override": true,
-	"battlefields" :
-	[
+	//	"override": true,
+	"battlefields" : [
 		"config/battlefields.json"
 	],
-	
-	"objects" : 
-	[ 
+
+	"objects" : [
 		"config/kurek_magicterrains.json"
 	],
-	
-	"terrains" :
-	[
+
+	"terrains" : [
 		"config/kurek_terrains.json"
 	]
 }

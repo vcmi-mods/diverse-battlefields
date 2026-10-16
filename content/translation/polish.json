@@ -1,0 +1,6 @@
+{
+	"mod.name": "Różnorodne Pola Bitwy",
+	"mod.description": "Każdy bank stworzeń i strzeżone siedlisko zyskują nowe, unikalnie wyglądające pole bitwy. Na razie tła nie są animowane, ale jeśli pliki def będą wspierane, zostaną zaktualizowane.",
+	"mod.mapterrain-battlefields.name": "Pola bitew dla terenów",
+	"mod.mapterrain-battlefields.description": "Mnóstwo nowych grafik pól bitwy dla każdego terenu, zarówno zwykłych, jak i magicznych terenów."
+}

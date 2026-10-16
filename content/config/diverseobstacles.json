@@ -1,5 +1,5 @@
 {
-//TEST	
+	//TEST
 	//"dragon_fly_hive_obstacle":
 	//{ 	"specialBattlefields" : ["dragon_fly_hive_battlefield", "gorgon_lair_battlefield"],
 	//	"width" : 2,
@@ -9,5 +9,5 @@
 	//	"allowedTerrains" : [],
 	//	"animation" : "banks/dragon_fly_hive1.def",
 	//	"absolute" : true
-//	}
+	//	}
 }
